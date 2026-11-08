@@ -50,7 +50,7 @@ const anthony = {
 - 🍏 Já fiz um **Hackintosh**: instalei o **macOS** em um notebook Lenovo
 - 🤖 Uso **Claude e Gemini** todo dia para estudar e programar
 - 🤟 Tenho curso de **Libras**
-- 🌱 Gosto de projetos com **impacto ambiental** — a Amazônia é o meu quintal
+- 🌱 Gosto de projetos com **impacto ambiental** — a Amazônia é o nosso lar
 
 </td>
 </tr>
