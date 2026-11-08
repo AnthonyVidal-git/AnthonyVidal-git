@@ -1,63 +1,137 @@
-<h1 align="center">Anthony Vidal</h1>
-
+<!-- Banner -->
 <p align="center">
-  <strong>Suporte Técnico & Infraestrutura de TI · Desenvolvedor Front-End em formação</strong><br>
-  Estudante de Engenharia da Computação · Manaus, AM 🇧🇷
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anthony%20Vidal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Suporte%20T%C3%A9cnico%20%E2%80%A2%20Infraestrutura%20%E2%80%A2%20Front-End&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Anthony Vidal" />
+</p>
+
+<!-- Texto digitando -->
+<p align="center">
+  <a href="https://github.com/AnthonyVidal-git">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Ol%C3%A1!+Eu+sou+o+Anthony+%F0%9F%91%8B;T%C3%A9cnico+de+Inform%C3%A1tica+na+SEMMAS+%F0%9F%8F%9B%EF%B8%8F;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Construindo+interfaces+com+React+%E2%9A%9B%EF%B8%8F;Transformando+sistemas+legados+em+web+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/anthony-vidal-8470753aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:4nthonywork@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="mailto:4nthonywork@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <img src="https://img.shields.io/badge/Manaus%2C%20AM-🌳%20Amazônia-2E7D32?style=for-the-badge" alt="Manaus">
+  <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-22C55E?style=for-the-badge" alt="Aberto a oportunidades">
 </p>
 
 ---
 
-## Sobre mim
+## 🧑‍💻 Sobre mim
 
-Técnico em Informática formado pelo **IFAM** e estudante do 7º período de **Engenharia da Computação** na Fametro. Atuo com suporte ao usuário e manutenção de parque de TI, e venho construindo minha base em desenvolvimento web.
+```js
+const anthony = {
+  local:       "Manaus, AM 🇧🇷",
+  cargo:       "Técnico de Informática @ SEMMAS",
+  formacao:    ["Eng. da Computação — Fametro (7º período)", "Técnico em Informática — IFAM"],
+  focoAtual:   "Migrar um sistema legado em Access para banco de dados + front-end web",
+  aprendendo:  ["React", "JavaScript avançado", "Inglês"],
+  buscando:    ["Suporte / Help Desk", "Infraestrutura", "QA", "Front-End"],
+  modalidade:  "Presencial em Manaus · Híbrido · Remoto",
+};
+```
 
-- 🏛️ Atualmente **Técnico de Informática na SEMMAS** (Prefeitura de Manaus), onde lidero a migração de um sistema legado em Microsoft Access para um banco de dados com front-end web
-- 🎓 Ex-estagiário de TI no **IFAM (NUPEC/DAIC)**: suporte em laboratórios, padronização de estações por clonagem de imagem e upgrades de hardware
-- 🔧 Experiência em manutenção industrial na **3M**
-- 🎯 Buscando oportunidades em **Suporte/Help Desk, Infraestrutura, QA ou Front-End** — presencial em Manaus, híbrido ou remoto
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Tecnologias
+### 🛠️ Na prática
+- 🏛️ **SEMMAS** — suporte aos servidores e manutenção do parque de TI; lidero a modernização de um sistema setorial
+- 🎓 **IFAM** — suporte em laboratórios, padronização de estações por clonagem de imagem e upgrades com SSD NVMe
+- 🏭 **3M** — manutenção preventiva e corretiva de máquinas industriais
 
-**Desenvolvimento**
+</td>
+<td width="50%" valign="top">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### ⚡ Curiosidades
+- 💾 Já instalei **Windows 98** em um Dell OptiPlex moderno para montar laboratório didático
+- 🤖 Uso **Claude e Gemini** todo dia para estudar e programar
+- 🤟 Tenho curso de **Libras**
+- 🌱 Gosto de projetos com **impacto ambiental** — a Amazônia é o meu quintal
 
-**Infraestrutura & Sistemas**
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Hardware](https://img.shields.io/badge/Hardware_&_Redes-555555?style=flat-square&logo=intel&logoColor=white)
-
-**IA no dia a dia**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
-## Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**BOITATECH VIEW**](https://github.com/AnthonyVidal-git/BOITATECHVIEW) | Painel ambiental interativo para monitorar biomas brasileiros, com visualizações em D3.js e interação por visão computacional (MediaPipe) | JavaScript · D3.js · MediaPipe |
-| [**BoitaTech**](https://github.com/AnthonyVidal-git/BOITATECH) | Projeto acadêmico de impacto social que centraliza informações sobre crimes ambientais e mudanças climáticas | HTML · CSS |
-| [**Site Consultoria Ambiental**](https://github.com/AnthonyVidal-git/site-consultoria-ambiental) | Site institucional para uma consultoria ambiental | HTML · CSS |
-| [**Cardápio Dev**](https://github.com/AnthonyVidal-git/Cardapio_dev) | Cardápio digital responsivo | HTML · CSS |
-
-## Formação
-
-- **Bacharelado em Engenharia da Computação** — Centro Universitário Fametro *(2023 – atual)*
-- **Técnico em Informática** — Instituto Federal do Amazonas, IFAM *(2023 – 2026)*
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center"><sub>Aberto a estágio e vagas júnior · Português nativo · Inglês intermediário (em andamento)</sub></p>
+## 🚀 Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,d3,git,github,vscode&perline=8" alt="Dev" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,bash,mysql&perline=8" alt="Infra" />
+</p>
+
+---
+
+## 🌟 Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 [BOITATECH VIEW](https://github.com/AnthonyVidal-git/BOITATECHVIEW)
+Painel ambiental interativo que monitora biomas brasileiros. Gráficos em **D3.js** e controle por gestos com **visão computacional (MediaPipe)**.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌎 [BoitaTech](https://github.com/AnthonyVidal-git/BOITATECH)
+Plataforma acadêmica de impacto social que centraliza informações sobre **crimes ambientais e mudanças climáticas**, com uma experiência imersiva.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍃 [Consultoria Ambiental](https://github.com/AnthonyVidal-git/site-consultoria-ambiental)
+Site institucional para uma consultoria ambiental.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍔 [Cardápio Dev](https://github.com/AnthonyVidal-git/Cardapio_dev)
+Cardápio digital responsivo para restaurante.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Formação & Certificados
+
+| 🏫 Formação | 📜 Cursos |
+|---|---|
+| **Engenharia da Computação** — Fametro *(2023 – atual)* | Inteligência Artificial 2.0 — SENAI |
+| **Técnico em Informática** — IFAM *(2023 – 2026)* ✅ | Design Thinking · Kaizen · Liderança 4.0 — SENAI |
+| | Introdução Profissional em Libras — SENAI |
+
+---
+
+<p align="center">
+  <b>💬 Vamos conversar?</b> Estou aberto a estágio e vagas júnior — me chama no <a href="https://linkedin.com/in/anthony-vidal-8470753aa">LinkedIn</a>!
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnthonyVidal-git&label=Visitas%20ao%20perfil&color=0e75b6&style=flat" alt="Visitas" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
