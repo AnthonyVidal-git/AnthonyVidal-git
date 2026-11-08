@@ -47,6 +47,7 @@ const anthony = {
 
 ### ⚡ Curiosidades
 - 💾 Já instalei **Windows 98** em um Dell OptiPlex moderno para montar laboratório didático
+- 🍏 Já fiz um **Hackintosh**: instalei o **macOS** em um notebook Lenovo
 - 🤖 Uso **Claude e Gemini** todo dia para estudar e programar
 - 🤟 Tenho curso de **Libras**
 - 🌱 Gosto de projetos com **impacto ambiental** — a Amazônia é o meu quintal
@@ -63,7 +64,7 @@ const anthony = {
   <img src="https://skillicons.dev/icons?i=html,css,js,react,d3,git,github,vscode&perline=8" alt="Dev" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,bash,mysql&perline=8" alt="Infra" />
+  <img src="https://skillicons.dev/icons?i=windows,apple,linux,ubuntu,bash,mysql&perline=8" alt="Infra" />
 </p>
 
 ---
