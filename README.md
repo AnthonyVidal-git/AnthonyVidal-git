@@ -48,9 +48,8 @@ const anthony = {
 ### ⚡ Curiosidades
 - 💾 Já instalei **Windows 98** em um Dell OptiPlex moderno para montar laboratório didático
 - 🍏 Já fiz um **Hackintosh**: instalei o **macOS** em um notebook Lenovo
-- 🤖 Uso **Claude e Gemini** todo dia para estudar e programar
-- 🤟 Tenho curso de **Libras**
-- 🌱 Gosto de projetos com **impacto ambiental** — a Amazônia é o nosso lar
+- 🧹 Acho o **debloat de Windows** muito empolgante: tirar o que pesa e deixar o sistema leve e rápido
+- 🌎 Gosto de **projetos em geral** que podem acrescentar na sociedade
 
 </td>
 </tr>
