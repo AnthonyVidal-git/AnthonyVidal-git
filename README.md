@@ -121,7 +121,7 @@ Meu objetivo é simples: crescer em **suporte, infraestrutura, QA ou front-end**
 | Assistente Administrativo | SENAI | 160h |
 | Assistente de Recursos Humanos | SENAI | 160h |
 | Introdução Profissional em Libras | SENAI | 40h |
-| Inglês *(em andamento)* | ASLAN | - |
+| Inglês *(concluído)* | ASLAN | - |
 
 ---
 
