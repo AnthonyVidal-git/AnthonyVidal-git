@@ -69,9 +69,9 @@ Meu objetivo é simples: crescer em **suporte, infraestrutura, QA ou front-end**
 <h2 align="center">🤝 Conecte-se</h2>
 
 <p align="center">
-  <a href="https://github.com/AnthonyVidal-git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/anthony-vidal-8470753aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:4nthonywork@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://github.com/AnthonyVidal-git"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="48" /></a>&nbsp;
+  <a href="https://linkedin.com/in/anthony-vidal-8470753aa"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="48" /></a>&nbsp;
+  <a href="mailto:4nthonywork@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="E-mail" height="48" /></a>
 </p>
 
 ---
@@ -121,7 +121,7 @@ Meu objetivo é simples: crescer em **suporte, infraestrutura, QA ou front-end**
 | Assistente Administrativo | SENAI | 160h |
 | Assistente de Recursos Humanos | SENAI | 160h |
 | Introdução Profissional em Libras | SENAI | 40h |
-| Inglês *(concluído)* | ASLAN | - |
+| Inglês *(concluído)* | ASLAN | cerca de 2 anos |
 
 ---
 
