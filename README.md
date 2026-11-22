@@ -23,7 +23,7 @@
 <tr>
 <td valign="top">
 
-**Anthony**, aqui. Sou técnico de informática na **SEMMAS** e estudante de Engenharia da Computação na **Fametro** (7º período), em Manaus.
+**Anthony**, aqui. Sou técnico de informática na **SEMMAS** e estudante de Engenharia da Computação na **Fametro** (8º período), em Manaus.
 
 Gosto de deixar o parque de TI funcionando e de organizar o que está bagunçado: padronizar estações, clonar imagens, trocar HD por SSD NVMe.
 
@@ -104,11 +104,24 @@ Meu objetivo é simples: crescer em **suporte, infraestrutura, QA ou front-end**
 
 <h2 align="center">🎓 Formação e cursos</h2>
 
-| 🏫 Formação | 📜 Cursos |
-| --- | --- |
-| **Engenharia da Computação**, Fametro *(2023 – atual)* | Inteligência Artificial 2.0, SENAI |
-| **Técnico em Informática**, IFAM *(2023 – 2026)* ✅ | Design Thinking · Kaizen · Liderança 4.0, SENAI |
-| | Introdução Profissional em Libras, SENAI |
+**🏫 Formação**
+
+- **Bacharelado em Engenharia da Computação**, Centro Universitário Fametro *(fev/2023 – atual, 8º período)*
+- **Técnico em Informática**, IFAM *(fev/2023 – abr/2026)* ✅
+
+**📜 Cursos e qualificações**
+
+| Curso | Instituição | Carga horária |
+| --- | --- | --- |
+| Inteligência Artificial 2.0 | SENAI | 40h |
+| Informática Básica – Windows | CETAM | 80h |
+| Design Thinking | SENAI | 40h |
+| Kaizen | SENAI | 40h |
+| Liderança 4.0 | SENAI | 40h |
+| Assistente Administrativo | SENAI | 160h |
+| Assistente de Recursos Humanos | SENAI | 160h |
+| Introdução Profissional em Libras | SENAI | 40h |
+| Inglês *(em andamento)* | ASLAN | - |
 
 ---
 
