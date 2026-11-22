@@ -135,4 +135,6 @@ Meu objetivo é simples: crescer em **suporte, infraestrutura, QA ou front-end**
   <img src="https://komarev.com/ghpvc/?username=AnthonyVidal-git&label=Visitas%20ao%20perfil&color=30363d&style=flat" alt="Visitas" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:000000&height=80&section=footer" width="100%" alt="" />
+<p align="center">
+  <img src="assets/sistema-solar.png" width="100%" alt="Pixel art do sistema solar em preto e branco" />
+</p>
