@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=170&section=header&text=%E2%96%8C%20anthony.vidal%20%E2%96%90&fontSize=46&fontColor=e6edf3&fontAlignY=45&desc=%2F%2F%20Manaus%2C%20Amaz%C3%B4nia&descSize=16&descColor=8b949e&descAlignY=68" width="100%" alt="anthony.vidal" />
+  <img src="assets/banner-maos.png" width="100%" alt="Pixel art das mãos de A Criação de Adão" />
 </p>
 
 <h2 align="center">Olá 👋, eu sou o Anthony</h2>
