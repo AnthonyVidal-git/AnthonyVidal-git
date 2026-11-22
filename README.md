@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner-maos.png" width="100%" alt="Pixel art das mãos de A Criação de Adão" />
+  <img src="assets/banner-maos.gif" width="100%" alt="Pixel art das mãos de A Criação de Adão" />
 </p>
 
 <h2 align="center">Olá 👋, eu sou o Anthony</h2>
@@ -136,5 +136,5 @@ Meu objetivo é simples: crescer em **suporte, infraestrutura, QA ou front-end**
 </p>
 
 <p align="center">
-  <img src="assets/sistema-solar.png" width="100%" alt="Pixel art do sistema solar em preto e branco" />
+  <img src="assets/sistema-solar.gif" width="100%" alt="Pixel art do sistema solar em preto e branco" />
 </p>
